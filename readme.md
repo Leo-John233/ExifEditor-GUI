@@ -67,4 +67,5 @@ pyinstaller -F -w exiftooli.py
 ## 🙏 致谢 (Credits)
 本软件的核心 EXIF 处理能力全部来自于 Phil Harvey 开发的伟大工具：ExifTool 世界上最强大的读写及处理图像、音视频和 PDF 元数据的命令行工具
 
-## 📄 开源协议 (License):本项目采用 MIT License 协议开源
+## 📄 开源协议 (License)
+本项目采用 MIT License 协议开源

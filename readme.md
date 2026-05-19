@@ -23,7 +23,7 @@
 如果你只是想快速使用这款软件，不需要配置任何 Python 环境：<br>
 1. 在本仓库的 Releases 页面下载最新打包好的 `.exe` 软件
 
-2. 前往 ExifTool 官网 下载 Windows 版本的独立可执行文件（解压后将名字重命名为 `exiftool.exe`）
+2. 前往 [ExifTool](https://exiftool.org/) 官网 [下载](https://sourceforge.net/projects/exiftool/files/exiftool-13.58_64.zip/download) Windows 版本的独立可执行文件（解压后将文件夹内的程序名字重命名为 `exiftool.exe`）
 
 3. 将下载好的两个 `.exe` 文件放在同一个文件夹下
 
